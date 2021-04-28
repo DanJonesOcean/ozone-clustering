@@ -16,5 +16,3 @@ This repository contains:
 * data_in : both the NetCDF data extracted from UKESM1 and the same data formatted as CSV
 * get_UKESM_ozone_profiles : the script used to extract ozone profiles from UKESM1 on Pangeo
 * Ozone profile clustering : notebook containing the fitting and labeling of classes
-
-This repository is a work in progress.
